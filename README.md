@@ -1,7 +1,12 @@
 # EXCEL_DASHBOARD_01
 <br>
 # Sales Executive Performance Dashboard
+<br>
+<br>
+<img width="1920" height="1160" alt="Screenshot 2026-09-22 161227" src="https://github.com/user-attachments/assets/f0280b9f-f557-4839-a91d-e4d9f3a249e2" />
 
+<br>
+<br>
 ## About the Project
 
 This is an Excel dashboard I created to analyze the performance of sales executives across different cities.
